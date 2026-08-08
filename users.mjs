@@ -5,4 +5,4 @@ const users = {
     admins, clients
 }
 
-module.exports = users
+export default users
