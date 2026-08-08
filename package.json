@@ -7,7 +7,7 @@
 		"test": "echo \"Error: no test specified\" && exit 1",
 		"start": "node index",
 		"start:dev": "nodemon index",
-		"start:app": "nodemon ./files/app.js"
+		"start:app": "nodemon app.js"
 	},
 	"repository": {
 		"type": "git",
@@ -22,6 +22,7 @@
 	},
 	"homepage": "https://github.com/ArthurKova/be-lessons#readme",
 	"dependencies": {
+		"commander": "^15.0.0",
 		"cors": "^2.8.6",
 		"express": "^5.2.1"
 	},

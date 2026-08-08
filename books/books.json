@@ -1,0 +1,42 @@
+[
+  {
+    "id": "1",
+    "author": "George Orwell",
+    "title": "1984"
+  },
+  {
+    "id": "2",
+    "author": "Harper Lee",
+    "title": "To Kill a Mockingbird"
+  },
+  {
+    "id": "3",
+    "author": "F. Scott Fitzgerald",
+    "title": "The Great Gatsby"
+  },
+  {
+    "id": "4",
+    "author": "Jane Austen",
+    "title": "Pride and Prejudice"
+  },
+  {
+    "id": "5",
+    "author": "J. R. R. Tolkien",
+    "title": "The Hobbit"
+  },
+  {
+    "id": "6",
+    "author": "Ray Bradbury",
+    "title": "Fahrenheit 451"
+  },
+  {
+    "id": "7",
+    "author": "Mary Shelley",
+    "title": "Frankenstein"
+  },
+  {
+    "id": "8",
+    "author": "Aldous Huxley",
+    "title": "Brave New World"
+  }
+]
