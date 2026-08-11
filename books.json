@@ -1,0 +1,92 @@
+[
+	{
+		"id": 1,
+		"title": "Мастер и Маргарита",
+		"author": "Михаил Булгаков",
+		"year": 1967,
+		"genre": "Роман",
+		"pages": 480,
+		"available": true
+	},
+	{
+		"id": 2,
+		"title": "Преступление и наказание",
+		"author": "Фёдор Достоевский",
+		"year": 1866,
+		"genre": "Роман",
+		"pages": 672,
+		"available": true
+	},
+	{
+		"id": 3,
+		"title": "Война и мир",
+		"author": "Лев Толстой",
+		"year": 1869,
+		"genre": "Роман-эпопея",
+		"pages": 1225,
+		"available": false
+	},
+	{
+		"id": 4,
+		"title": "1984",
+		"author": "Джордж Оруэлл",
+		"year": 1949,
+		"genre": "Антиутопия",
+		"pages": 328,
+		"available": true
+	},
+	{
+		"id": 5,
+		"title": "Маленький принц",
+		"author": "Антуан де Сент-Экзюпери",
+		"year": 1943,
+		"genre": "Сказка",
+		"pages": 96,
+		"available": true
+	},
+	{
+		"id": 6,
+		"title": "Три товарища",
+		"author": "Эрих Мария Ремарк",
+		"year": 1936,
+		"genre": "Роман",
+		"pages": 480,
+		"available": false
+	},
+	{
+		"id": 7,
+		"title": "451 градус по Фаренгейту",
+		"author": "Рэй Брэдбери",
+		"year": 1953,
+		"genre": "Научная фантастика",
+		"pages": 256,
+		"available": true
+	},
+	{
+		"id": 8,
+		"title": "Портрет Дориана Грея",
+		"author": "Оскар Уайльд",
+		"year": 1890,
+		"genre": "Готический роман",
+		"pages": 320,
+		"available": true
+	},
+	{
+		"id": 9,
+		"title": "Убить пересмешника",
+		"author": "Харпер Ли",
+		"year": 1960,
+		"genre": "Роман",
+		"pages": 384,
+		"available": false
+	},
+	{
+		"id": 10,
+		"title": "Над пропастью во ржи",
+		"author": "Джером Д. Сэлинджер",
+		"year": 1951,
+		"genre": "Роман",
+		"pages": 288,
+		"available": true
+	}
+]
